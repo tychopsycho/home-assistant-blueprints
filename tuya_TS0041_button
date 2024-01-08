@@ -9,7 +9,7 @@ blueprint:
       selector:
         device:
           integration: zha
-          manufacturer:
+          manufacturer: _TZ3000_fa9mlvja
           model: TS0041A
           multiple: false
     button_one_short_press:
